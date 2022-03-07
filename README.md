@@ -1,0 +1,2 @@
+# LoianeTrainingCourseExercises
+Java Basic
