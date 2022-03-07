@@ -6,7 +6,10 @@
 ---
 
 
-### These are my resolutions from the Loiane.Training java basic course.
+### These are my resolutions from the Loiane.Training java basic course .
+````
+course web site: https://loiane.training/
+````
 
 ### These exercises are made in one project on Eclipse IDE.
 
