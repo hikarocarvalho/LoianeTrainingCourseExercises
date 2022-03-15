@@ -22,7 +22,7 @@ course web site: https://loiane.training/
 
 [Exercise List](https://github.com/hikarocarvalho/LoianeTrainingCourseExercises/blob/main/Exercises/01.pdf) =>
 [resolution](https://github.com/hikarocarvalho/LoianeTrainingCourseExercises/tree/main/Loiane.Training%20Java%20Course/src/loiane/training/course/class11/a/class13)
-
+<!-- 
 [Exercise List](https://github.com/hikarocarvalho/LoianeTrainingCourseExercises/blob/main/Exercises/02.pdf) =>
 [resolution]()
 
@@ -61,3 +61,4 @@ course web site: https://loiane.training/
 
 [Exercise List](https://github.com/hikarocarvalho/LoianeTrainingCourseExercises/blob/main/Exercises/14.jpg) =>
 [resolution]()
+-->
